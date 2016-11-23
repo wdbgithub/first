@@ -8,7 +8,6 @@ public class Test {
     }
 
     public void hello(){
-        String str = "yuyu111";
-        System.out.println("jkj");
+        String str = "yuyu111222";
     }
 }
