@@ -7,5 +7,7 @@ public class Test {
         System.out.println("789797");
     }
 
-    public void hello(){}
+    public void hello(){
+        String str = "yuyu";
+    }
 }
