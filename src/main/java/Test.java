@@ -6,4 +6,6 @@ public class Test {
         System.out.println("yyuyuyu");
         System.out.println("789797");
     }
+
+    public void hello(){}
 }
