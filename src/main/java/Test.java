@@ -8,6 +8,6 @@ public class Test {
     }
 
     public void hello(){
-        String str = "yuyu";
+        String str = "yuyu111";
     }
 }
